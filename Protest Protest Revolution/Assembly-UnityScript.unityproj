@@ -46,8 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\asteroid_gen.js" />
      <Compile Include="Assets\playvid.js" />
+     <Compile Include="Assets\random_gen.js" />
      <None Include="Assets\ShaderGrayson.shader" />
      <None Include="Assets\Materials\greenscreen.shader" />
  <Reference Include="UnityEngine.UI">
