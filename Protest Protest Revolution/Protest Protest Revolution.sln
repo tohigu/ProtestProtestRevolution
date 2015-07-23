@@ -1,6 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{6AC2BB32-338A-9A7D-FE04-33A1081B907E}") = "Protest Protest Revolution", "Assembly-CSharp.csproj", "{0200EDEF-A9C6-B28F-57FD-2CB2821BF70D}"
+EndProject
 Project("{6AC2BB32-338A-9A7D-FE04-33A1081B907E}") = "Protest Protest Revolution", "Assembly-UnityScript.unityproj", "{FB3E73D8-732E-5FEA-8518-352FD803F273}"
 EndProject
 Global
@@ -9,6 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0200EDEF-A9C6-B28F-57FD-2CB2821BF70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0200EDEF-A9C6-B28F-57FD-2CB2821BF70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0200EDEF-A9C6-B28F-57FD-2CB2821BF70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0200EDEF-A9C6-B28F-57FD-2CB2821BF70D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FB3E73D8-732E-5FEA-8518-352FD803F273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB3E73D8-732E-5FEA-8518-352FD803F273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB3E73D8-732E-5FEA-8518-352FD803F273}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -17,7 +23,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-												GlobalSection(MonoDevelopProperties) = preSolution
+																													GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

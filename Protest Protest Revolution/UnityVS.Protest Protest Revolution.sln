@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Protest Protest Revolution.CSharp", "UnityVS.Protest Protest Revolution.CSharp.csproj", "{2B4CD98F-85B1-245C-B0FC-295EF506DA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4CD98F-85B1-245C-B0FC-295EF506DA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4CD98F-85B1-245C-B0FC-295EF506DA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4CD98F-85B1-245C-B0FC-295EF506DA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4CD98F-85B1-245C-B0FC-295EF506DA70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
