@@ -275,7 +275,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &618665169
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -413,6 +413,8 @@ GameObject:
   m_Component:
   - 4: {fileID: 903945322}
   - 114: {fileID: 903945321}
+  - 114: {fileID: 903945323}
+  - 114: {fileID: 903945324}
   m_Layer: 0
   m_Name: GAME LOGIC
   m_TagString: Untagged
@@ -444,6 +446,31 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
+--- !u!114 &903945323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 903945320}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cfbb40830ad540a393959a1eb58e7b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  umbrella: 0
+--- !u!114 &903945324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 903945320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c540be63a886a49e1975f8f12c8557a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  portName: /dev/cu.usbserial-A603H3P3
+  baudRate: 9600
 --- !u!1 &931492964
 GameObject:
   m_ObjectHideFlags: 0
@@ -1670,7 +1697,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1547180876
 Transform:
   m_ObjectHideFlags: 0
@@ -1816,7 +1843,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2003566177
 Transform:
   m_ObjectHideFlags: 0
