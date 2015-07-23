@@ -222,8 +222,10 @@ pip-log.txt
 [Tt]emp/
 [Oo]bj/
 [Bb]uild
-[Ll]ibrary/
+Library/
+Metadata/
 sysinfo.txt
+*.info
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -248,3 +250,20 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 [Tt]humbs.db
+Protest Protest Revolution/Library/InspectorExpandedItems.asset
+Protest Protest Revolution/Library/assetDatabase3
+Protest Protest Revolution/Library/InspectorExpandedItems.asset
+Protest Protest Revolution/Library/metadata/00/0000000000000000b000000000000000
+Protest Protest Revolution/Library/metadata/00/00000000000000009000000000000000
+Protest Protest Revolution/Library/metadata/00/00000000000000005100000000000000
+Protest Protest Revolution/Library/metadata/00/00000000000000004000000000000000
+Protest Protest Revolution/Library/assetDatabase3
+Protest Protest Revolution/Library/metadata/36/36ff301f3a74c48db835849513e85468.info
+Protest Protest Revolution/Library/metadata/54/543d726c08c194e0394254ffeb6c9514
+Protest Protest Revolution/Library/metadata/5b/5bc9910166c774232a4193790002e3e0
+Protest Protest Revolution/Library/metadata/7f/7f16aaa27226a4016aab4275eda79451.info
+Protest Protest Revolution/Library/metadata/83/83a728f902f944630b72445bb32b670d.info
+Protest Protest Revolution/Library/metadata/b2/b2b1dd75f627a4125aeebe6834e5e739
+Protest Protest Revolution/Library/metadata/e3/e381e50f7df4f46519a9566d7774e178.info
+Protest Protest Revolution/Library/metadata/f9/f97f406759508499b983620155f3292f.info
+Protest Protest Revolution/Library/ScriptAssemblies/BuiltinAssemblies.stamp
